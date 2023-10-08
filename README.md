@@ -161,6 +161,9 @@ LLVM相关的视频比较少，youtube上比较多，上面 GiantPandaCV 翻译�
 - [使用LLVM实现一门语言（七）Control Flow](https://zhuanlan.zhihu.com/p/335344134)
 - [使用LLVM实现一门语言（八）User-defined Operators](https://zhuanlan.zhihu.com/p/336243654)
 - [使用LLVM实现一门语言（九）Mutable Variables](https://zhuanlan.zhihu.com/p/336929719)
+- [LLVM编译器之Pass添加](https://zhuanlan.zhihu.com/p/650938510)
+- [CUDA 编译与 NVVM IR 笔记](https://zhuanlan.zhihu.com/p/409154399)
+- [LLVM 中的循环: Loop](https://zhuanlan.zhihu.com/p/536765546)
 
 ### TVM精选
 
@@ -243,6 +246,7 @@ LLVM相关的视频比较少，youtube上比较多，上面 GiantPandaCV 翻译�
 - [阿里 BladeDISC 深度学习编译器正式开源](https://zhuanlan.zhihu.com/p/462641670)
 - [全面支持 PyTorch 2.0：BladeDISC 5月~11月新功能发布](https://zhuanlan.zhihu.com/p/590314270)
 - [【GTC 22】通过 PAI-Blade 更方便、更鲁棒地使用 TensorRT](https://zhuanlan.zhihu.com/p/490295901)
+- [LLVM后端：TableGen简易入门](https://zhuanlan.zhihu.com/p/625227861)
 
 ### 其它编译器&&论文阅读
 
@@ -275,6 +279,7 @@ LLVM相关的视频比较少，youtube上比较多，上面 GiantPandaCV 翻译�
 - [PyTorch 2.0 Dynamo 字节码详解！自顶向下，由浅入深](https://zhuanlan.zhihu.com/p/625136260)
 - [Paper阅读笔记: Welder: Scheduling Deep Learning Memory Access via Tile-graph](https://zhuanlan.zhihu.com/p/643155184)
 - [[Hands-On Polyhedral] C CodeGen](https://zhuanlan.zhihu.com/p/644188920)
+- [【论文阅读】DISTAL: 分布式张量代数编译器 (DISTAL: The Distributed Tensor Algebra Compiler)](https://zhuanlan.zhihu.com/p/650326653)
 
 ## 系统性的专栏或者网站
 
